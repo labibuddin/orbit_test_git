@@ -12,3 +12,5 @@ while(a_cond):
     y = input("Roll again? (y/n)")
     if y=='n':
         a_cond = False
+
+#alfin
